@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+.line{
+    width: 70px;
+    height: 5px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+
+#sec1{
+    background: linear-gradient(aqua 0%, limegreen 100%);
+}
+#sec2{
+    background: linear-gradient(violet 0%, pink 100%);
+}
+
+#sec3{
+    background: linear-gradient(indigo 0%, orange 100%);
+}
